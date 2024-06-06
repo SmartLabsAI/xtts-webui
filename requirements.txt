@@ -1,4 +1,4 @@
-gradio==4.13.0
+gradio==4.36.0
 torch==2.1.1
 torchaudio==2.1.1
 faster-whisper==1.0.1
@@ -21,7 +21,7 @@ pyworld
 torchcrepe
 praat-parselmouth>=0.4.2
 translators
-transformers==4.36.2
+transformers==4.38.0
 deepl
 requests
 pysubs2
